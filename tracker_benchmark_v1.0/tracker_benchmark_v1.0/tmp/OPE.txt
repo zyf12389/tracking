@@ -1,0 +1,99 @@
+1_VR, 1_Soccer: 1/1
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 172)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',172,0)">line 172</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',172,0)
+main_running
+1_VR, 1_Soccer: 1/1
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 172)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',172,0)">line 172</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',172,0)
+main_running
+1_VR, 1_Soccer: 1/1
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 172)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',172,0)">line 172</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running
+1_VR, 1_Soccer: 1/1
+error
+./results/results_OPE_CVPR13/
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 173)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',173,0)">line 173</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running
+1_VR, 1_Soccer: 1/1
+error
+./results/results_OPE_CVPR13/Soccer_VR.mat
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 173)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',173,0)">line 173</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running
+1_VR, 1_Soccer: 1/1
+errorw4qre
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 172)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',172,0)">line 172</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+Unable to delete file: C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\tmp\OPE.txt
+main_running
+1_VR, 1_Soccer: 1/1
+开始运行
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 173)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',173,0)">line 173</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running
+1_VR, 1_Soccer: 1/1
+开始运行
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 173)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',173,0)">line 173</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running
+1_VR, 1_Soccer: 1/1
+开始运行
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 173)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',173,0)">line 173</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running
+1_VR, 1_Soccer: 1/1
+res=run_VR(subS, rp, bSaveImage);
+error
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'Soccer_VR.mat' because '.\results\results_OPE_CVPR13' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m', 173)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('C:\Users\ww\Desktop\visual tracking\tracker_benchmark_v1.0\tracker_benchmark_v1.0\main_running.m',173,0)">line 173</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+main_running

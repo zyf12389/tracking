@@ -1,0 +1,23 @@
+STCT: Sequentially Training Convolutional Networks for Visual Tracking
+
+Beyond Local Search: Tracking Objects Everywhere with Instance-Specific Proposals
+
+High-Speed Tracking with Kernelized Correlation Filters
+
+MUlti-Store Tracker (MUSTer)
+
+MEEM: Robust Tracking via Multiple Experts using Entropy Minimization 
+
+Learning Multi-Domain Convolutional Neural Networks for Visual Tracking
+
+Hedged Deep Tracking
+
+Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking
+
+Siamese Instance Search for Tracking
+
+In Defense of Sparse Tracking: Circulant Sparse Tracker
+
+Structural Correlation Filter for Robust Visual Tracking
+
+Online Object Tracking: A Benchmark
